@@ -1,6 +1,6 @@
 # Sorting Algorithms in Python
 
-Algorithms covered:
+Algorithms:
 - Bubble sort
 - Insertion sort
 - Merge sort
